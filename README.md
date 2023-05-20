@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/SAHEB0072/SAHEB0072/blob/main/Banner.jpeg" alt="GitHub Banner" height="300px" width="1400px">
+  <img src="https://github.com/SAHEB0072/SAHEB0072/blob/main/README.jpeg" alt="GitHub Banner" height="300px" width="1400px">
 </p>
 <h1 align="center"><b>Hi 👋, I'm ARYAN PRATAP SINGH</b> &nbsp;&nbsp;&nbsp; #साहेब0072</h1>
 <h3 align="center">Passionate JAVA Full-Stack web Developer.Thriving IT sector offers Abundant Opportunities.</h3>
