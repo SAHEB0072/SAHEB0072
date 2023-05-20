@@ -17,13 +17,13 @@
 
 - 📫 E-mail to Reach Me **webwizards@engineer.com**
 
-- 📄 Know about my Experiences at [https://www.linkedin.com/in/aryan-pratap-singh-65a169247](https://www.linkedin.com/in/aryan-pratap-singh-65a169247)
+- 📄 Know about my Experiences at [https://www.linkedin.com/in/aryan-pratap-singh-saheb0072](https://www.linkedin.com/in/aryan-pratap-singh-saheb0072)
 
 - ⚡ Fun fact **I think I'm funny🤩**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aryan-pratap-singh-65a169247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-pratap-singh-65a169247" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryan-pratap-singh-saheb0072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-pratap-singh-saheb0072" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/aryanpratap.singh.1840?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aryanpratap.singh.1840?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/__aa_rn_yk_au_nr__?igshid=zddkntzintm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/__aa_rn_yk_au_nr__?igshid=zddkntzintm=" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/@aryanpratapsingh8518" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@aryanpratapsingh8518" height="30" width="40" /></a>
