@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saheb0072&label=Profile%20views&color=0e75b6&style=flat" alt="saheb0072" /> </p>
 
-- Currently Focused on learning and growth. Embracing new &nbsp;&nbsp;&nbsp;&nbsp; Technologies, Frameworks, and Methodologies. Committed to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; staying updated and expanding expertise in. **Hibernate,Spring,Spring-boot,Collection,React etc,&nbsp;&nbsp;&nbsp;&nbsp; JAVA Full-Stack Web Development.**
+- Currently Focused on learning and growth. Embracing new &nbsp;&nbsp;&nbsp;&nbsp; Technologies, Frameworks, and Methodologies. Committed to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; staying updated and expanding expertise in. **Hibernate,Spring,Spring-boot,Collection,React etc,                                  JAVA Full-Stack Web Development.**
 
 - 👨‍💻 All of my Projects are available at [https://github.com/SAHEB0072](https://github.com/SAHEB0072)
 
